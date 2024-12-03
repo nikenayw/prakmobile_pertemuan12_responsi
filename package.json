@@ -17,9 +17,12 @@
     "@capacitor/haptics": "6.0.2",
     "@capacitor/keyboard": "6.0.3",
     "@capacitor/status-bar": "6.0.2",
-    "@ionic/vue": "^8.0.0",
-    "@ionic/vue-router": "^8.0.0",
+    "@codetrix-studio/capacitor-google-auth": "^3.4.0-rc.4",
+    "@ionic/vue": "^8.4.1",
+    "@ionic/vue-router": "^8.4.1",
+    "firebase": "^11.0.2",
     "ionicons": "^7.0.0",
+    "pinia": "^2.2.8",
     "vue": "^3.3.0",
     "vue-router": "^4.2.0"
   },
@@ -37,7 +40,7 @@
     "typescript": "^5.1.6",
     "vite": "~5.2.0",
     "vitest": "^0.34.6",
-    "vue-tsc": "^2.0.22"
+    "vue-tsc": "^2.1.10"
   },
   "description": "An Ionic project"
 }
